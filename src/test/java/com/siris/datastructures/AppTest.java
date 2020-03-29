@@ -1,4 +1,4 @@
-package datastructures_learn.com.siris.datastructures;
+package com.siris.datastructures;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
