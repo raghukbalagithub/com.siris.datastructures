@@ -1,4 +1,4 @@
 package com.siris.datastructures.array;
 
-public class OneDimensional {
+public class SingleDimensionalArray {
 }

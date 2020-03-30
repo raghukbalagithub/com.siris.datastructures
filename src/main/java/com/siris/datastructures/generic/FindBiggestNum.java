@@ -1,4 +1,4 @@
-package com.siris.java.datastructures.generic;
+package com.siris.datastructures.generic;
 
 /**
  * DS course - Algorithm Analysis

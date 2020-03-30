@@ -1,4 +1,4 @@
-package com.siris.java.datastructures.recursion;
+package com.siris.datastructures.recursion;
 
 public class BinarySearchByRecursion {
 }
